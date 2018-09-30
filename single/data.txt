@@ -1,0 +1,9 @@
+4
+/lustre2/share/AppData/ZSQGroup/TDI21302bPV22/red/montage
+/lustre2/share/AppData/ZSQGroup/TDI21302bPV22/red/correct
+8
+1,11022
+0
+0.000000,0.000000,0.000000
+0,0,0,0
+-18,39

@@ -1,0 +1,14 @@
+/lustre2/share/Users/Administrator/Desktop/pypre/pypre
+/lustre2/share/Users/Administrator/Desktop/pypre/pypre
+1
+8
+0
+32,10071
+40,60,31,53
+0
+1.001003,1.000000,1.000000
+0,0
+0
+0
+0
+0.000000,0.000000,0.000000
